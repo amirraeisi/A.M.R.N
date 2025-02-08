@@ -1,7 +1,7 @@
 a=int(input())
 b=int(input())
-c=int(input())
-if(a>b>c):
-    print(b)
-else:
-    print(a*b*c*2)
+c=a*b-a
+d=a-c*8*b
+e=a+d-b*c
+x=a*b*c*d*e
+print(x)
