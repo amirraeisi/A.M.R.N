@@ -1,4 +1,4 @@
-def calculator_emami():
+def calculator_RaisiNasab():
     print("calculator app")
     
     while True:
